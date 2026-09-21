@@ -28,5 +28,5 @@ The sample datasets for the model inputs are available on Figshare at [Link](htt
 
 ## **📖Publications**:
 - Citation for our research article: *[will be added upon acceptance]*
-- Citation for our generated datasets: *Tong, Lai Yiu (2026). Datasets for "Rooftop solar supports carbon-neutral transition in Hong Kong’s building sector". figshare. Dataset. https://doi.org/10.6084/m9.figshare.33349182*
+- Citation for our generated datasets: *Tong, Lai Yiu; Li, Zhiwei; Yoo, Cheolhee; Jia, Siqi; Zhu, Rui; Im, Jungho (2026). Datasets for "Rooftop solar supports carbon-neutral transition in Hong Kong’s building sector". figshare. Dataset. https://doi.org/10.6084/m9.figshare.33349182.v1*
 
